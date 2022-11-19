@@ -3,7 +3,7 @@
 """
 Created on Sat May 21 11:09:10 2022
 
-@author: dicksonnkwantabisa
+@author: dixon domfeh
 """
 
 import mdptoolbox
